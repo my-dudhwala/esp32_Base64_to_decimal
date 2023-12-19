@@ -7,7 +7,7 @@ This Arduino sketch converts Base64-encoded strings to decimal values and stores
 This Arduino sketch provides a simple implementation for decoding Base64-encoded strings into decimal values. The decoded values are stored in the `SensorData` array, and the conversion process is performed by the `Base64` function.
 
 ## Key Points
-
+`(The variables "array1" and "array3" are a String variable and they are not array, it is just a name)`
 ### Input Strings
 
 - Two Base64-encoded strings, `array1` and `array3`, are provided as input. These strings are processed to remove newline characters (`\n`) before conversion.
