@@ -27,3 +27,6 @@ This Arduino sketch provides a simple implementation for decoding Base64-encoded
 ### Output
 
 - The final output is a series of decimal values stored in the `SensorData` array. These decimal values are printed in hexadecimal format.
+
+## Author
+- Mohammed Yasar Dudhwala
